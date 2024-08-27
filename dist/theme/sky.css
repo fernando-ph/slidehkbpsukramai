@@ -20,7 +20,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   --r-background-color: #131413;
   --r-main-font: Ubuntu, sans-serif;
   --r-main-font-size: 40px;
-  --r-main-color: rgb(248, 9, 9);
+  --r-main-color: rgb(8, 8, 8);
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
   --r-heading-font: Ubuntu, sans-serif;
@@ -28,7 +28,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   --r-heading-line-height: 1.2;
   --r-heading-letter-spacing: -0.08em;
   --r-heading-text-transform: uppercase;
-  --r-heading-text-shadow: 2px 2px 2px rgb(235, 95, 60);
+  --r-heading-text-shadow: 2px 2px 2px rgb(10, 10, 10);
   --r-heading-font-weight: normal;
   --r-heading1-text-shadow: 0 4px 0 rgb(2, 2, 2), 0 4px 0 #030303, 0 4px 0 rgb(12, 12, 12), 0 4px 0 #0c0c0c, 0 5px 0 rgb(10, 9, 9), 0 6px 1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3), 0 3px 5px rgba(0, 0, 0, 0.2), 0 5px 10px rgba(0, 0, 0, 0.25), 0 20px 20px rgba(0, 0, 0, 0.15);
   --r-heading1-size: 3.77em;
@@ -36,7 +36,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   --r-heading3-size: 1.55em;
   --r-heading4-size: 1em;
   --r-code-font: monospace;
-  --r-link-color: #ce1c1c;
+  --r-link-color: #000000;
   --r-link-color-dark: #d3d018;
   --r-link-color-hover: #c8f309;
   --r-selection-background-color: #63d418;
